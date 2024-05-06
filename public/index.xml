@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Alex Fernandes</title>
-    <link>https://mywebsite.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Alex Fernandes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Mar 2024 15:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mywebsite.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://mywebsite.com/about.html</link>
+      <link>http://localhost:1313/about.html</link>
       <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
-      <guid>https://mywebsite.com/about.html</guid>
+      <guid>http://localhost:1313/about.html</guid>
       <description>Hello, I&amp;rsquo;m Alex My research interest are the following:&#xA;Generative AI for randomised clinical trials Derived sheaf theory and microlocal analysis in persistence theory Education Diplôme de l&amp;rsquo;École Normale Supérieure : Major in Mathematics Minor in Molecular Biology MSc in Mathematics at Sorbonne University : Algebraic geometry and homotopy theory Computation of projected barcodes using free-resolutions (François Petit, Steve Oudot) Bsc in Mathematics at EPFL: Track : Algebra and Geometry Modular forms, theta series and even unimodular lattices (Maryna Viazovska) Let&amp;rsquo;s Connect I am always open to new opportunities and collaborations, feel free to reach out to me.</description>
     </item>
     <item>
       <title>Legal Notice</title>
-      <link>https://mywebsite.com/legalnotice.html</link>
+      <link>http://localhost:1313/legalnotice.html</link>
       <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
-      <guid>https://mywebsite.com/legalnotice.html</guid>
+      <guid>http://localhost:1313/legalnotice.html</guid>
       <description>Privacy Policy This website does not use cookies and do not collect or use any of your information.&#xA;Theme This website was created with hugo and use the theme &amp;ldquo;Terminal&amp;rdquo; created by Nayan Seth available here</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>https://mywebsite.com/publications.html</link>
+      <link>http://localhost:1313/publications.html</link>
       <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
-      <guid>https://mywebsite.com/publications.html</guid>
+      <guid>http://localhost:1313/publications.html</guid>
       <description>Publications SOON FILLED </description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://mywebsite.com/teaching.html</link>
+      <link>http://localhost:1313/teaching.html</link>
       <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
-      <guid>https://mywebsite.com/teaching.html</guid>
+      <guid>http://localhost:1313/teaching.html</guid>
       <description>Teaching SOON FILLED </description>
     </item>
   </channel>
