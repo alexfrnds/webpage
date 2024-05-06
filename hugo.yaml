@@ -35,11 +35,7 @@ markup:
     unsafe: true
 ignoreFiles:
   - "themes/terminal/content"
-outputs:
-   blog:
-     - HTML
-     - RSS
-     - sitemap-blog.xml
+outputs: 
    home:
      - HTML
      - RSS
