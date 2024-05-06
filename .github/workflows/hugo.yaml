@@ -1,4 +1,26 @@
 
+# Default to bash
+defaults:
+  run:
+    shell: bash
+    # Lint job
+    lint:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v3
+          with:
+            submodules: true
+            fetch-depth: 0
+        - name: Install Node.js 20
+          uses: actions/setup-node@v2
+          with:
+            node-version: 20
+        - name: Install dependencies
+          run: npm install
+        - name: Run linting
+          run: npm run lint
+
 name: Deploy Hugo site to Pages
 
 on:
@@ -21,11 +43,6 @@ permissions:
 concurrency:
   group: "pages"
   cancel-in-progress: false
-
-# Default to bash
-defaults:
-  run:
-    shell: bash
 
 jobs:
   # Build job
