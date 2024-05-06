@@ -39,7 +39,7 @@ outputs:
    home:
      - HTML
      - RSS
-     - sitemap.xml
+     #- sitemap.xml
 
 params:
   social:
