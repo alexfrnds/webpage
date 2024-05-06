@@ -35,10 +35,10 @@ markup:
     unsafe: true
 ignoreFiles:
   - "themes/terminal/content"
-outputs: 
-   home:
-     - HTML
-     - RSS
+#outputs: 
+   #home:
+     #- HTML
+     #- RSS
      #- sitemap.xml
 
 params:
@@ -55,4 +55,5 @@ module:
     extended: false
     min: "0.116.0"
 
+name : "Alex Fernandes"
 
