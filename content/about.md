@@ -15,7 +15,7 @@ My research interest are the following:
 ## Education
 - __Diplôme de l'École Normale Supérieure__ : 
     - Major in Mathematics
-    - Minor in Molecular Biology
+    - Minor in Biology
 - __MSc in Mathematics at Sorbonne University__ :
     - Algebraic geometry and homotopy theory
     - _Computation of projected barcodes using free-resolutions (François Petit, Steve Oudot)_
