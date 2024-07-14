@@ -9,7 +9,7 @@ menus:
       name: About me
       url: /about.html
       weight: 20
-    - identifier: publications
+    - identifier: research
       name: Research
       url: /research.html
       weight: 30
