@@ -10,8 +10,8 @@ menus:
       url: /about.html
       weight: 20
     - identifier: publications
-      name: Publications
-      url: /publications.html
+      name: Research
+      url: /research.html
       weight: 30
     - identifier: teaching
       name: Teaching

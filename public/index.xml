@@ -13,7 +13,7 @@
       <link>http://localhost:1313/about.html</link>
       <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about.html</guid>
-      <description>Hello, I&amp;rsquo;m Alex My research interest are the following:&#xA;Generative AI for randomised clinical trials Derived sheaf theory and microlocal analysis in persistence theory Education Diplôme de l&amp;rsquo;École Normale Supérieure : Major in Mathematics Minor in Molecular Biology MSc in Mathematics at Sorbonne University : Algebraic geometry and homotopy theory Computation of projected barcodes using free-resolutions (François Petit, Steve Oudot) Bsc in Mathematics at EPFL: Track : Algebra and Geometry Modular forms, theta series and even unimodular lattices (Maryna Viazovska) Let&amp;rsquo;s Connect I am always open to new opportunities and collaborations, feel free to reach out to me.</description>
+      <description>Hello, I&amp;rsquo;m Alex My research interest are the following:&#xA;Generative AI for randomised clinical trials Derived sheaf theory and microlocal analysis in persistence theory Education Diplôme de l&amp;rsquo;École Normale Supérieure : Major in Mathematics Minor in Biology MSc in Mathematics at Sorbonne University : Algebraic geometry and homotopy theory Computation of projected barcodes using free-resolutions (François Petit, Steve Oudot) Bsc in Mathematics at EPFL: Track : Algebra and Geometry Modular forms, theta series and even unimodular lattices (Maryna Viazovska) Let&amp;rsquo;s Connect I am always open to new opportunities and collaborations, feel free to reach out to me.</description>
     </item>
     <item>
       <title>Legal Notice</title>
@@ -23,18 +23,18 @@
       <description>Privacy Policy This website does not use cookies and do not collect or use any of your information.&#xA;Theme This website was created with hugo and use the theme &amp;ldquo;Terminal&amp;rdquo; created by Nayan Seth available here</description>
     </item>
     <item>
-      <title>Publications</title>
-      <link>http://localhost:1313/publications.html</link>
+      <title>Research</title>
+      <link>http://localhost:1313/research.html</link>
       <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications.html</guid>
-      <description>Publications SOON FILLED </description>
+      <guid>http://localhost:1313/research.html</guid>
+      <description>Publications SOON FILLED Talks and posters SPIRES, (Oxford, UK, 2024): Conic complexes and projected barcode (poster) CRESS, STAFF meeting (Paris, FR, 2024): Generative AI for randomised controlled trials TUM, Applied topology seminar (München, DE, 2024): Conic complexes and projected barcode BIGS-M, Meeting on Topology and Applications (Bielefeld, DE, 2023) : Derived and microlocal sheaf theory in persistence BIREP, Summer School on persistence modules (Bad-Driburg, DE, 2023) : Derived category of sheaves and level set persistence </description>
     </item>
     <item>
       <title>Teaching</title>
       <link>http://localhost:1313/teaching.html</link>
       <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching.html</guid>
-      <description>Teaching SOON FILLED </description>
+      <description>Graduate teaching assistant Seminar Generative AI for RCT : AI in Medecine - Université Paris-Cité/ Maastricht University (Paris, FR, 2024) Mathematics tutoring : University PSL - CPES - Talens (Paris, FR, 2022) Mathematics tutoring : University PSL - CPES - Talens (Paris, FR, 2021) Undergraduate teaching assistant Advanced linear algebra I : EPFL (Lausanne, CH, 2020), Lecturer: Phillipe Michel Group theory (Summer School) : EPFL (Lausanne, CH, 2020) Calculus (Summer School) : EPFL (Lausanne, CH, 2020) Geometry II : EPFL (Lausanne, CH, 2020), Lecturer: Phillipe Michel Geometry I : EPFL (Lausanne, CH, 2019), Lecturer: Phillipe Michel </description>
     </item>
   </channel>
 </rss>
