@@ -9,7 +9,7 @@ url: "/about.html"
 
 ## Hello, I'm Alex 
 My research interest are the following:
-- Generative AI for randomised clinical trials
+- Generative AI for randomised controlled trials
 - Derived sheaf theory and microlocal analysis in persistence theory
 
 ## Education
