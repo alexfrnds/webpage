@@ -12,8 +12,8 @@ url: "/teaching.html"
 - __Mathematics tutoring__ : University PSL - CPES - Talens (Paris, FR, 2021)
 
 ## Undergraduate teaching assistant
-- __Advanced linear algebra I__ : EPFL (Lausanne, CH, 2020), _Lecturer: Phillipe Michel_
+- __Advanced linear algebra I__ : EPFL (Lausanne, CH, 2020), _Lecturer: Philippe Michel_
 - __Group theory (Summer School)__ : EPFL (Lausanne, CH, 2020)
 - __Calculus (Summer School)__ : EPFL (Lausanne, CH, 2020)
-- __Geometry II__ : EPFL (Lausanne, CH, 2020), _Lecturer: Phillipe Michel_
-- __Geometry I__ : EPFL (Lausanne, CH, 2019), _Lecturer: Phillipe Michel_
+- __Geometry II__ : EPFL (Lausanne, CH, 2020), _Lecturer: Philippe Michel_
+- __Geometry I__ : EPFL (Lausanne, CH, 2019), _Lecturer: Philippe Michel_

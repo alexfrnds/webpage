@@ -12,6 +12,7 @@ url: "/research.html"
 - SOON FILLED
 
 ## Talks and posters
+- __ComPer, (Graz, AT, 2024)__: Conic complexes and projected barcode
 - __SPIRES, (Oxford, UK, 2024)__: Conic complexes and projected barcode (poster)
 - __CRESS, STAFF meeting (Paris, FR, 2024)__: Generative AI for randomised controlled trials
 - __TUM, Applied topology seminar (München, DE, 2024)__: Conic complexes and projected barcode
