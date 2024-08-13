@@ -9,7 +9,7 @@ url: "/research.html"
 
 ## Publications
 
-- SOON FILLED
+- __Computation of -linear projected barcodes for multiparameter persistence__ : [arXiv](https://arxiv.org/abs/2408.01065) (joint work with [Steve Oudot](https://geometrica.saclay.inria.fr/team/Steve.Oudot/) and [François Petit](https://fpetit.org))
 
 ## Talks and posters
 - __ComPer, (Graz, AT, 2024)__: Conic complexes and projected barcode
