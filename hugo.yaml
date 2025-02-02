@@ -1,0 +1,44 @@
+languageCode: en-us
+title: Alex Fernandes
+theme: ["PaperMod"]
+
+menu:
+  main :
+    - identifier: aboutme
+      name: About me
+      url: /aboutme
+      weight: 10
+    - identifier: research
+      name: Research
+      url: /research
+      weight: 20
+    - identifier: teaching
+      name: Teaching
+      url: /teaching
+      weight: 20
+
+
+params:
+  profileMode:
+    enabled: true
+    title: "Alex Fernandes" # optional default will be site title
+    subtitle: "Graduate student in CRESS at Université Paris-Cité"
+    #imageUrl: "<image link>" # optional
+    #imageTitle: "<title of image as alt>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Université Paris-Cité
+        url: "https://u-paris.fr/en/"
+      - name: CRESS
+        url: "https://cress-umr1153.fr/en/"
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/alexfrnds"
+    - name: "googlescholar"
+      url: "https://scholar.google.com/citations?user=ANbz2BUAAAAJ&hl=en"
+    - name: "x"
+      url: "https://bsky.app/profile/alexfrnds.bsky.social"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/a-frnds/"

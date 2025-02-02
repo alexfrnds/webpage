@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alex Fernandes</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Alex Fernandes</description>
+    <generator>Hugo -- 0.134.1</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>//localhost:1313/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/aboutme/</guid>
+      <description>&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Real world data (RWD) for health technology assessment (HTA)&lt;/li&gt;
+&lt;li&gt;Generative AI for randomised controlled trials&lt;/li&gt;
+&lt;li&gt;Derived sheaf theory for persistence and TDA (topological data analysis)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PhD (Candidate) at Université Paris-Cité&lt;/strong&gt; :
+&lt;ul&gt;
+&lt;li&gt;Biostatistics and biomathematics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Diplôme de l&amp;rsquo;École Normale Supérieure&lt;/strong&gt; :
+&lt;ul&gt;
+&lt;li&gt;Major in Mathematics&lt;/li&gt;
+&lt;li&gt;Minor in Biology&lt;/li&gt;
+&lt;li&gt;Minor in Public affairs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MSc in Mathematics at Sorbonne University&lt;/strong&gt; :
+&lt;ul&gt;
+&lt;li&gt;Algebraic geometry and homotopy theory&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Computation of projected barcodes using free-resolutions (François Petit, Steve Oudot)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bsc in Mathematics at EPFL&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Track : Algebra and Geometry&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Modular forms, theta series and even unimodular lattices (Maryna Viazovska)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>//localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/</guid>
+      <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Computation of ɣ-linear projected barcodes for multiparameter persistence&lt;/strong&gt; : &lt;a href=&#34;https://arxiv.org/abs/2408.01065&#34;&gt;arXiv&lt;/a&gt; (joint work with &lt;a href=&#34;https://geometrica.saclay.inria.fr/team/Steve.Oudot/&#34;&gt;Steve Oudot&lt;/a&gt; and &lt;a href=&#34;https://fpetit.org&#34;&gt;François Petit&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;talks-and-posters&#34;&gt;Talks and posters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ComPer, (Graz, AT, 2024)&lt;/strong&gt;: Conic complexes and projected barcode&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SPIRES, (Oxford, UK, 2024)&lt;/strong&gt;: Conic complexes and projected barcode (poster)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CRESS, STAFF meeting (Paris, FR, 2024)&lt;/strong&gt;: Generative AI for randomised controlled trials&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TUM, Applied topology seminar (München, DE, 2024)&lt;/strong&gt;: Conic complexes and projected barcode&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BIGS-M, Meeting on Topology and Applications (Bielefeld, DE, 2023)&lt;/strong&gt; : Derived and microlocal sheaf theory in persistence&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BIREP, Summer School on persistence modules (Bad-Driburg, DE, 2023)&lt;/strong&gt; : Derived category of sheaves and level set persistence&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>//localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching/</guid>
+      <description>&lt;h2 id=&#34;graduate-teaching-assistant&#34;&gt;Graduate teaching assistant&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mathematics tutoring&lt;/strong&gt; : University PSL - CPES - Talens (Paris, FR, 2021)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;undergraduate-teaching-assistant&#34;&gt;Undergraduate teaching assistant&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Advanced linear algebra I&lt;/strong&gt; : EPFL (Lausanne, CH, 2020), &lt;em&gt;Lecturer: Philippe Michel&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Geometry II&lt;/strong&gt; : EPFL (Lausanne, CH, 2020), &lt;em&gt;Lecturer: Philippe Michel&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Geometry I&lt;/strong&gt; : EPFL (Lausanne, CH, 2019), &lt;em&gt;Lecturer: Philippe Michel&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
