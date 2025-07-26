@@ -19,7 +19,7 @@ UseHugoToc: false
 ---
 
 ## Publications
-
+- __Evaluating virtual-control-augmented trials for reproducing treatment effect from original RCTs__ : [arXiv](https://arxiv.org/abs/2507.16048) (joint work with [Raphaël Porcher](https://cress-umr1153.fr/fr/teams/methods/member-raphael-porcher-254), [Viet-Thi Tran](https://cress-umr1153.fr/fr/teams/methods/member-viet-thi-tran-263) and [François Petit](https://fpetit.org))
 - __Computation of ɣ-linear projected barcodes for multiparameter persistence__ : [JACT](https://link.springer.com/article/10.1007/s41468-025-00209-9) [arXiv](https://arxiv.org/abs/2408.01065) (joint work with [Steve Oudot](https://geometrica.saclay.inria.fr/team/Steve.Oudot/) and [François Petit](https://fpetit.org))
 
 ## Talks and posters
