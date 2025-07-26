@@ -18,7 +18,6 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 ---
 
-
 ## Research Interests
 - Real world data (RWD) for health technology assessment (HTA) 
 - Generative AI for randomised controlled trials

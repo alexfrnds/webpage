@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aboutmes on Alex Fernandes</title>
+    <link>//localhost:1313/aboutme/</link>
+    <description>Recent content in Aboutmes on Alex Fernandes</description>
+    <generator>Hugo -- 0.134.1</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/aboutme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>//localhost:1313/aboutme/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/aboutme/aboutme/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;pic&#34; loading=&#34;lazy&#34; src=&#34;CRESS.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Real world data (RWD) for health technology assessment (HTA)&lt;/li&gt;
+&lt;li&gt;Generative AI for randomised controlled trials&lt;/li&gt;
+&lt;li&gt;Derived sheaf theory for persistence and TDA (topological data analysis)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PhD (Candidate) at Université Paris-Cité&lt;/strong&gt; :
+&lt;ul&gt;
+&lt;li&gt;Biostatistics and biomathematics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Diplôme de l&amp;rsquo;École Normale Supérieure&lt;/strong&gt; :
+&lt;ul&gt;
+&lt;li&gt;Major in Mathematics&lt;/li&gt;
+&lt;li&gt;Minor in Biology&lt;/li&gt;
+&lt;li&gt;Minor in Public affairs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MSc in Mathematics at Sorbonne University&lt;/strong&gt; :
+&lt;ul&gt;
+&lt;li&gt;Algebraic geometry and homotopy theory&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Computation of projected barcodes using free-resolutions (François Petit, Steve Oudot)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bsc in Mathematics at EPFL&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Track : Algebra and Geometry&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Modular forms, theta series and even unimodular lattices (Maryna Viazovska)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

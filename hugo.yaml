@@ -23,10 +23,10 @@ params:
     enabled: true
     title: "Alex Fernandes" # optional default will be site title
     subtitle: "Graduate student in CRESS at Université Paris-Cité"
-    #imageUrl: "<image link>" # optional
+    imageUrl: "CRESS.jpg" # optional
     #imageTitle: "<title of image as alt>" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageWidth: 300 # custom size
+    imageHeight: 300 # custom size
     buttons:
       - name: Université Paris-Cité
         url: "https://u-paris.fr/en/"
