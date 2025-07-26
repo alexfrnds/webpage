@@ -38,7 +38,5 @@ params:
       url: "https://github.com/alexfrnds"
     - name: "googlescholar"
       url: "https://scholar.google.com/citations?user=ANbz2BUAAAAJ&hl=en"
-    - name: "x"
-      url: "https://bsky.app/profile/alexfrnds.bsky.social"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/a-frnds/"
