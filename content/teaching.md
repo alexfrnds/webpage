@@ -18,6 +18,7 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 ---
 ## Graduate teaching assistant
+- __Differential geometry__ : Ecole normale superieure - PSL (Paris, FR, 2026) _Lecturer: Emmanuel Giroux_ 
 - __Mathematics tutoring__ : University PSL - CPES - Talens (Paris, FR, 2021)
 
 ## Undergraduate teaching assistant

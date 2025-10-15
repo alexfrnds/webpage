@@ -19,9 +19,9 @@ UseHugoToc: false
 ---
 
 ## Research Interests
-- Real world data (RWD) for health technology assessment (HTA) 
-- Generative AI for randomised controlled trials
-- Derived sheaf theory for persistence and TDA (topological data analysis)
+- Real world evidence for health technology assessment (HTA) 
+- Artificial intelligence in Causal Inference 
+- Derived sheaf theory for persistence theory and topological data analysis
 
 ## Education
 - __PhD (Candidate) at Université Paris-Cité__ : 

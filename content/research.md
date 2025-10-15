@@ -23,6 +23,7 @@ UseHugoToc: false
 - __Computation of ɣ-linear projected barcodes for multiparameter persistence__ : [JACT](https://link.springer.com/article/10.1007/s41468-025-00209-9) [arXiv](https://arxiv.org/abs/2408.01065) (joint work with [Steve Oudot](https://geometrica.saclay.inria.fr/team/Steve.Oudot/) and [François Petit](https://fpetit.org))
 
 ## Talks and posters
+- __CESP, Oncostats team meeting , (Paris, 2025)__: Evaluating virtual-control-augmented trials for reproducing treatment effect from original RCTs
 - __ComPer, (Graz, AT, 2024)__: Conic complexes and projected barcode
 - __SPIRES, (Oxford, UK, 2024)__: Conic complexes and projected barcode (poster)
 - __CRESS, STAFF meeting (Paris, FR, 2024)__: Generative AI for randomised controlled trials
